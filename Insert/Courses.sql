@@ -1,0 +1,4 @@
+INSERT INTO Courses VALUES
+("7XFU","CS-1P"),
+("7ZFG","CS-1Q"),
+("7ZFx","CS-1CT");
